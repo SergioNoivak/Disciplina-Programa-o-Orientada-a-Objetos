@@ -13,6 +13,8 @@ using namespace std;
 
 	 cout << "2.Chame o método que altera os valores"<<endl;
 	 cout << "3.Mostra os valores dos atributos		 "<<endl;
+	 cout << "4. Sair                          		 " << endl;
+
 	 fflush(stdin);
 	 int opcao_escolhida;
 	 cin >> opcao_escolhida;

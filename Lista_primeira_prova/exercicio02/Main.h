@@ -7,6 +7,7 @@ public:
 	const static int operacao01 = 1;
 	const static int operacao02 = 2;
 	const static int operacao03 = 3;
+	const static int operacao04 = 4;
 
 	static int menu();
 
